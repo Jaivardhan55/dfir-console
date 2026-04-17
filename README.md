@@ -1,0 +1,2 @@
+# Automated-Artifact-Extraction-and-Timeline-Analysis-from-Windows-Systems-for-Incident-Response
+This project is a Digital Forensics and Incident Response system that analyzes Windows logs such as EVTX and Registry data. It processes, normalizes, and extracts features from events, applies machine learning to detect suspicious activity, groups related events, and reconstructs timelines through an interactive dashboard.
